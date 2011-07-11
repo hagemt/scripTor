@@ -1,0 +1,1 @@
+/home/teh/Downloads/Software/tsast/tsast.sh
